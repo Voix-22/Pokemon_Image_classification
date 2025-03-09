@@ -53,10 +53,3 @@ The `remove_background(image)` function:
 3. Run the Jupyter Notebook.
 4. The model will train and output accuracy plots.
 
-## Future Improvements
-- Use Convolutional Neural Networks (CNN) for better accuracy.
-- Add more Pokémon types to the dataset.
-- Implement a web app for real-time classification.
-
-## File Name
-**README.md**
